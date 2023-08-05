@@ -4,6 +4,7 @@ using System;
 
 namespace IMS
 {
+   
     class Program
     {
         public const string DayofSendingBill = "Monday";
@@ -20,6 +21,7 @@ namespace IMS
             //Using the Program odject fields in our New customer object by calling it 
             var customer1 = new Program();
             customer1.FirstName = "John";
+            Console.WriteLine(customer1.FirstName);
         }
         
     }
