@@ -13,3 +13,10 @@ C:\Users\USER\source\repos\IMS-Main\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleA
 C:\Users\USER\source\repos\IMS-Main\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
 C:\Users\USER\source\repos\IMS-Main\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\USER\source\repos\IMS-Main\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\USER\source\repos\IMS-Main\TestTwo\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\IMS-Main\TestTwo\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IMS-Main\TestTwo\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\USER\source\repos\IMS-Main\TestTwo\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IMS-Main\TestTwo\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\USER\source\repos\IMS-Main\TestTwo\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\USER\source\repos\IMS-Main\TestTwo\obj\Debug\net6.0\ConsoleApp1.pdb

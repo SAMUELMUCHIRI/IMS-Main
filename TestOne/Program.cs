@@ -1,4 +1,5 @@
 using System;
+#nullable disable
 
 
 // learning aboout enum type
@@ -114,6 +115,8 @@ namespace MyNamespace
                 Console.WriteLine($"{loo1} + {loo2} is not equal to 0.3.double epsilon is {loo3}");
 
             }
+            // Working with arrays
+
             string[] names;
             names = new string[10];
             names[0] = "Robert";
@@ -126,13 +129,27 @@ namespace MyNamespace
             names[7] = "Mercy";
             names[8] = "Cate";
             names[9] = "Joan";
-            for int (i = 0; i < names.Length; i++)
+            for (int i = 0; i < names.Length; i++)
             {
                 Console.WriteLine(names[i]);
             }
+            // Working with object type
+            object height = 1.8;
+            object name = "Ashley";
+            //note how we have to explicitly define our name variable
+            int Length = ((string)name).Length;
+            Console.WriteLine(Length);
           
-            
-            
+            // Working with dynamic type
+            dynamic height1 = 1.8;
+            dynamic name1 = "Ashley";
+            int Length1 = name1.Length;
+            Console.WriteLine(Length1);
+
+            // working with null type note the question mark ! introduced in c#8.0
+            int? count = null;
+            Console.WriteLine(count);
+            Console.WriteLine(count.GetValueOrDefault());
 
 
 

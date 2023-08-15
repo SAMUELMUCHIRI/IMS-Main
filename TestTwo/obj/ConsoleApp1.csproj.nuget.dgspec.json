@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\USER\\source\\repos\\IMS-Main\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\USER\\source\\repos\\IMS-Main\\TestTwo\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\USER\\source\\repos\\IMS-Main\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\USER\\source\\repos\\IMS-Main\\TestTwo\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\USER\\source\\repos\\IMS-Main\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\IMS-Main\\TestTwo\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "c:\\Users\\USER\\source\\repos\\IMS-Main\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\IMS-Main\\TestTwo\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\USER\\source\\repos\\IMS-Main\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\IMS-Main\\TestTwo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -54,12 +54,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.21, 6.0.21]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.21, 6.0.21]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.21, 6.0.21]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.21, 6.0.21]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400-preview.23274.1\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

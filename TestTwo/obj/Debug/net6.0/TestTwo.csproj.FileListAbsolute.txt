@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\IMS-Main\TestTwo\obj\Debug\net6.0\TestTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\IMS-Main\TestTwo\obj\Debug\net6.0\TestTwo.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IMS-Main\TestTwo\obj\Debug\net6.0\TestTwo.AssemblyInfo.cs
+C:\Users\USER\source\repos\IMS-Main\TestTwo\obj\Debug\net6.0\TestTwo.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IMS-Main\TestTwo\bin\Debug\net6.0\TestTwo.exe
+C:\Users\USER\source\repos\IMS-Main\TestTwo\bin\Debug\net6.0\TestTwo.deps.json
+C:\Users\USER\source\repos\IMS-Main\TestTwo\bin\Debug\net6.0\TestTwo.runtimeconfig.json
+C:\Users\USER\source\repos\IMS-Main\TestTwo\bin\Debug\net6.0\TestTwo.dll
+C:\Users\USER\source\repos\IMS-Main\TestTwo\bin\Debug\net6.0\TestTwo.pdb
+C:\Users\USER\source\repos\IMS-Main\TestTwo\obj\Debug\net6.0\TestTwo.dll
+C:\Users\USER\source\repos\IMS-Main\TestTwo\obj\Debug\net6.0\refint\TestTwo.dll
+C:\Users\USER\source\repos\IMS-Main\TestTwo\obj\Debug\net6.0\TestTwo.pdb
+C:\Users\USER\source\repos\IMS-Main\TestTwo\obj\Debug\net6.0\TestTwo.genruntimeconfig.cache
+C:\Users\USER\source\repos\IMS-Main\TestTwo\obj\Debug\net6.0\ref\TestTwo.dll
