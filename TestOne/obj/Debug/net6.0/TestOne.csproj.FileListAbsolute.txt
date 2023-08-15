@@ -3,7 +3,6 @@ C:\Users\USER\source\repos\IMS-Main\TestOne\bin\Debug\net6.0\TestOne.deps.json
 C:\Users\USER\source\repos\IMS-Main\TestOne\bin\Debug\net6.0\TestOne.runtimeconfig.json
 C:\Users\USER\source\repos\IMS-Main\TestOne\bin\Debug\net6.0\TestOne.dll
 C:\Users\USER\source\repos\IMS-Main\TestOne\bin\Debug\net6.0\TestOne.pdb
-C:\Users\USER\source\repos\IMS-Main\TestOne\obj\Debug\net6.0\TestOne.csproj.AssemblyReference.cache
 C:\Users\USER\source\repos\IMS-Main\TestOne\obj\Debug\net6.0\TestOne.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\USER\source\repos\IMS-Main\TestOne\obj\Debug\net6.0\TestOne.AssemblyInfoInputs.cache
 C:\Users\USER\source\repos\IMS-Main\TestOne\obj\Debug\net6.0\TestOne.AssemblyInfo.cs

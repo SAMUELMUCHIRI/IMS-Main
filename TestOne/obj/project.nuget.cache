@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "QaAJvUTAPxA0cevc/mK6yr/XdRnXVjoj8Xr4g9LH2n5SetQKsKIkCeXCwXHR7YhVOx1YKcTTWu0m0vtKl6tfGA==",
+  "dgSpecHash": "Uf0bJ+4qo8LS4csy4hemmBqPgNm8QiLP0yWoMoQ6u1gehx3DwxI8BW8LReA7VlGFY53mXCqCnConCyPh/1mruQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\IMS-Main\\TestOne\\TestOne.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\USER\\source\\repos\\IMS-Main\\TestOne\\TestOne.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
   "logs": []
 }

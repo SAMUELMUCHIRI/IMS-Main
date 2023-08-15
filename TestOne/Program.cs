@@ -16,6 +16,13 @@ public enum Days
  Weekend = Saturday | Sunday
 }
 
+public enum time_day 
+{
+    Morning = 0,
+    Lunch = 1,
+    Evening = 2,
+
+}
 
 namespace MyNamespace
 {
@@ -32,6 +39,7 @@ namespace MyNamespace
             // Console.BackgroundColor = ConsoleColor.Magenta;
             Console.ForegroundColor = ConsoleColor.Green;
             //utilizing trim
+            //Public TestOne
             string greetings = "     Hello       ";
             string starttrim_Greetings = greetings.TrimStart();
             string endtrim_Greetings = greetings.TrimEnd();
@@ -92,8 +100,37 @@ namespace MyNamespace
             double Area = Math.PI * radius * radius;
             Console.WriteLine(Area);
             Days Today = Days.Monday;
-            Console.WriteLine(Today);
-         
+            time_day watch = time_day.Evening;
+            Console.WriteLine($"hello  it's a  {Today} {watch}");
+            double loo1 = 0.1;
+            double loo2 = 0.2;
+            double loo3 =double.Epsilon;
+            if (loo1+loo2 == 0.3)
+            {
+                Console.WriteLine($"{loo1} + {loo2} is equal to 0.3");
+            }
+            else
+            {
+                Console.WriteLine($"{loo1} + {loo2} is not equal to 0.3.double epsilon is {loo3}");
+
+            }
+            string[] names;
+            names = new string[10];
+            names[0] = "Robert";
+            names[1] = "Sarah";
+            names[2] = "Erick";
+            names[3] = "Dave";
+            names[4] = "Stormzy";
+            names[5] = "Jorja";
+            names[6] = "Hill";
+            names[7] = "Mercy";
+            names[8] = "Cate";
+            names[9] = "Joan";
+            for int (i = 0; i < names.Length; i++)
+            {
+                Console.WriteLine(names[i]);
+            }
+          
             
             
 
