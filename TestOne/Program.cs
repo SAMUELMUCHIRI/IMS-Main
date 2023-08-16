@@ -134,10 +134,10 @@ namespace MyNamespace
                 Console.WriteLine(names[i]);
             }
             // Working with object type
-            object height = 1.8;
-            object name = "Ashley";
+            object height0 = 1.9;
+            object name0 = "John";
             //note how we have to explicitly define our name variable
-            int Length = ((string)name).Length;
+            int Length = ((string)name0).Length;
             Console.WriteLine(Length);
           
             // Working with dynamic type
@@ -146,10 +146,28 @@ namespace MyNamespace
             int Length1 = name1.Length;
             Console.WriteLine(Length1);
 
-            // working with null type note the question mark ! introduced in c#8.0
+            // working with null type note the question mark ? introduced in c#8.0
             int? count = null;
             Console.WriteLine(count);
             Console.WriteLine(count.GetValueOrDefault());
+
+            //working with formatted strings
+           string applesText = "Apples";
+            int applesCount = 1234;
+            string bananasText = "Bananas";
+            int bananasCount = 56789;
+            Console.WriteLine(
+                format: "{0,-8} {1,6:N0}",
+                arg0: "Name",
+                arg1: "Count");
+            Console.WriteLine(
+                format: "{0,-8} {1,6:N0}",
+                arg0: applesText,
+                arg1: applesCount);
+            Console.WriteLine(
+                format: "{0,-8} {1,6:N0}",
+                arg0: bananasText,
+                arg1: bananasCount);
 
 
 
