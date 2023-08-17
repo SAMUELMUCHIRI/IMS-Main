@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BooleanOperators\bin\Debug\net7.0\BooleanOperators.exe
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BooleanOperators\bin\Debug\net7.0\BooleanOperators.deps.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BooleanOperators\bin\Debug\net7.0\BooleanOperators.runtimeconfig.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BooleanOperators\bin\Debug\net7.0\BooleanOperators.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BooleanOperators\bin\Debug\net7.0\BooleanOperators.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BooleanOperators\obj\Debug\net7.0\BooleanOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BooleanOperators\obj\Debug\net7.0\BooleanOperators.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BooleanOperators\obj\Debug\net7.0\BooleanOperators.AssemblyInfo.cs
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BooleanOperators\obj\Debug\net7.0\BooleanOperators.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BooleanOperators\obj\Debug\net7.0\BooleanOperators.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BooleanOperators\obj\Debug\net7.0\refint\BooleanOperators.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BooleanOperators\obj\Debug\net7.0\BooleanOperators.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BooleanOperators\obj\Debug\net7.0\BooleanOperators.genruntimeconfig.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BooleanOperators\obj\Debug\net7.0\ref\BooleanOperators.dll

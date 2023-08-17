@@ -1,4 +1,6 @@
-﻿using System;
+using System;
+using static System.Console;
+
 
 namespace Chapter3
 {
@@ -6,25 +8,23 @@ namespace Chapter3
     {
         public static void Main(string[] args)
         {
-            int count = 0;
-            /*Console.Write("Hello Type in your name  ");
-            string nameOfUser = Console.ReadLine();
-            Console.Write("Whats your age if i may ask?  ");
-            string ageOfUser = Console.ReadLine();
-            Console.WriteLine("great");
-            Console.WriteLine($"Hey {nameOfUser} you look young at {ageOfUser} pleasure to meet you "); */
-
-            //the line below counts the number of arguments written by the user
-            Console.WriteLine($"There are {args.Length} arguments.");
-            foreach (string arg in args)
-            {
-                Console.WriteLine($"{count}   {arg}");
-                count++;
-            }
-         
-
-                
-
+            /* Controlling Flow and  Converting Types */
+            // Chapter 3
+            // unary operators
+            
+            int a = 5;
+            //int b = a++;
+            int c = ++a;
+            double  e = 11.0;
+            int f = 3;
+            // WriteLine($" in postfix a is {a} , b is {b} ");
+            //WriteLine($"in prefix it becomes : a is {a}, c is {c}");
+            Console.WriteLine($"e is {e}, f is {f}");
+            Console.WriteLine($"e x f = {e*f}");
+            WriteLine($"e + f = {e+f}");
+            WriteLine($"e - f = {e-f}");
+            WriteLine($"e / f = {e/f}");
+            WriteLine($"e % f = {e%f}");
         }
 
     }
