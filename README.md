@@ -1,6 +1,12 @@
 # IMS-Main
 
-> learning CSHARP : self taught 
-heres a repo for my journey
+> ## Learning Dotnet 
 
-The learning is based on a book (to update later)
+self taught heres a repo for my journey
+
+The learning is based on a book ( **C# 8.0 and .NET Core 3.0 – Modern Cross-Platform Development** )
+
+- C#! Welcome, .NET!
+- Speaking C#
+- Controlling Flow and Converting Types 
+- Writing, Debugging, and Testing Functions
