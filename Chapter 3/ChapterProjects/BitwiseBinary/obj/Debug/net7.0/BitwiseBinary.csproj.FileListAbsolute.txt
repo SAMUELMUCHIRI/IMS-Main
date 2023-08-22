@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BitwiseBinary\bin\Debug\net7.0\BitwiseBinary.exe
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BitwiseBinary\bin\Debug\net7.0\BitwiseBinary.deps.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BitwiseBinary\bin\Debug\net7.0\BitwiseBinary.runtimeconfig.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BitwiseBinary\bin\Debug\net7.0\BitwiseBinary.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BitwiseBinary\bin\Debug\net7.0\BitwiseBinary.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BitwiseBinary\obj\Debug\net7.0\BitwiseBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BitwiseBinary\obj\Debug\net7.0\BitwiseBinary.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BitwiseBinary\obj\Debug\net7.0\BitwiseBinary.AssemblyInfo.cs
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BitwiseBinary\obj\Debug\net7.0\BitwiseBinary.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BitwiseBinary\obj\Debug\net7.0\BitwiseBinary.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BitwiseBinary\obj\Debug\net7.0\refint\BitwiseBinary.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BitwiseBinary\obj\Debug\net7.0\BitwiseBinary.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BitwiseBinary\obj\Debug\net7.0\BitwiseBinary.genruntimeconfig.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BitwiseBinary\obj\Debug\net7.0\ref\BitwiseBinary.dll

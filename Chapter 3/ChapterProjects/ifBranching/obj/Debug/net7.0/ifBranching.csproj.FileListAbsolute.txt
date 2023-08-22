@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\ifBranching\bin\Debug\net7.0\ifBranching.exe
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\ifBranching\bin\Debug\net7.0\ifBranching.deps.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\ifBranching\bin\Debug\net7.0\ifBranching.runtimeconfig.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\ifBranching\bin\Debug\net7.0\ifBranching.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\ifBranching\bin\Debug\net7.0\ifBranching.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\ifBranching\obj\Debug\net7.0\ifBranching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\ifBranching\obj\Debug\net7.0\ifBranching.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\ifBranching\obj\Debug\net7.0\ifBranching.AssemblyInfo.cs
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\ifBranching\obj\Debug\net7.0\ifBranching.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\ifBranching\obj\Debug\net7.0\ifBranching.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\ifBranching\obj\Debug\net7.0\refint\ifBranching.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\ifBranching\obj\Debug\net7.0\ifBranching.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\ifBranching\obj\Debug\net7.0\ifBranching.genruntimeconfig.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\ifBranching\obj\Debug\net7.0\ref\ifBranching.dll

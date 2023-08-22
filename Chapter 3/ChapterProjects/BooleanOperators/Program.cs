@@ -17,8 +17,8 @@ namespace BooleanOper
             WriteLine($" Xor  |   a  |   b   ");
             WriteLine($"  a   |{a^a,-5} |{a^b,-5}");
             WriteLine($"  b   |{b^a,-5} |{b^b,-5}");
-            WriteLine($" a & Dostuff() = {a&Dostuff()}");
-            WriteLine($" b & Dostuff() = {b&Dostuff()}");
+            WriteLine($" a && Dostuff() = {a&&Dostuff()}");
+            WriteLine($" b && Dostuff() = {b&&Dostuff()}");//compiler does not excecute it as it is already registered as false
             
 
 
