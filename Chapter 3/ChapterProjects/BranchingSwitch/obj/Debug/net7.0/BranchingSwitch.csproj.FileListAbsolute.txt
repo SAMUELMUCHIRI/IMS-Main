@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BranchingSwitch\bin\Debug\net7.0\BranchingSwitch.exe
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BranchingSwitch\bin\Debug\net7.0\BranchingSwitch.deps.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BranchingSwitch\bin\Debug\net7.0\BranchingSwitch.runtimeconfig.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BranchingSwitch\bin\Debug\net7.0\BranchingSwitch.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BranchingSwitch\bin\Debug\net7.0\BranchingSwitch.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BranchingSwitch\obj\Debug\net7.0\BranchingSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BranchingSwitch\obj\Debug\net7.0\BranchingSwitch.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BranchingSwitch\obj\Debug\net7.0\BranchingSwitch.AssemblyInfo.cs
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BranchingSwitch\obj\Debug\net7.0\BranchingSwitch.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BranchingSwitch\obj\Debug\net7.0\BranchingSwitch.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BranchingSwitch\obj\Debug\net7.0\refint\BranchingSwitch.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BranchingSwitch\obj\Debug\net7.0\BranchingSwitch.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BranchingSwitch\obj\Debug\net7.0\BranchingSwitch.genruntimeconfig.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\BranchingSwitch\obj\Debug\net7.0\ref\BranchingSwitch.dll

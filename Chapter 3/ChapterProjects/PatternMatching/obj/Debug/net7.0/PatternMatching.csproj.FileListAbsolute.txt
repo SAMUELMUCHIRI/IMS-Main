@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\PatternMatching\bin\Debug\net7.0\PatternMatching.exe
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\PatternMatching\bin\Debug\net7.0\PatternMatching.deps.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\PatternMatching\bin\Debug\net7.0\PatternMatching.runtimeconfig.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\PatternMatching\bin\Debug\net7.0\PatternMatching.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\PatternMatching\bin\Debug\net7.0\PatternMatching.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\PatternMatching\obj\Debug\net7.0\PatternMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\PatternMatching\obj\Debug\net7.0\PatternMatching.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\PatternMatching\obj\Debug\net7.0\PatternMatching.AssemblyInfo.cs
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\PatternMatching\obj\Debug\net7.0\PatternMatching.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\PatternMatching\obj\Debug\net7.0\PatternMatching.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\PatternMatching\obj\Debug\net7.0\refint\PatternMatching.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\PatternMatching\obj\Debug\net7.0\PatternMatching.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\PatternMatching\obj\Debug\net7.0\PatternMatching.genruntimeconfig.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\PatternMatching\obj\Debug\net7.0\ref\PatternMatching.dll
