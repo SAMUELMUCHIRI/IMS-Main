@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\fizzbuzz\obj\Debug\net7.0\fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\fizzbuzz\obj\Debug\net7.0\fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\fizzbuzz\obj\Debug\net7.0\fizzbuzz.AssemblyInfo.cs
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\fizzbuzz\obj\Debug\net7.0\fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\fizzbuzz\bin\Debug\net7.0\fizzbuzz.exe
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\fizzbuzz\bin\Debug\net7.0\fizzbuzz.deps.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\fizzbuzz\bin\Debug\net7.0\fizzbuzz.runtimeconfig.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\fizzbuzz\bin\Debug\net7.0\fizzbuzz.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\fizzbuzz\bin\Debug\net7.0\fizzbuzz.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\fizzbuzz\obj\Debug\net7.0\fizzbuzz.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\fizzbuzz\obj\Debug\net7.0\refint\fizzbuzz.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\fizzbuzz\obj\Debug\net7.0\fizzbuzz.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\fizzbuzz\obj\Debug\net7.0\fizzbuzz.genruntimeconfig.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\fizzbuzz\obj\Debug\net7.0\ref\fizzbuzz.dll

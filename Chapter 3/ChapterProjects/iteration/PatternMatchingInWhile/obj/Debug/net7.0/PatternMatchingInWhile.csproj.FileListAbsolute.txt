@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\PatternMatchingInWhile\bin\Debug\net7.0\PatternMatchingInWhile.exe
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\PatternMatchingInWhile\bin\Debug\net7.0\PatternMatchingInWhile.deps.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\PatternMatchingInWhile\bin\Debug\net7.0\PatternMatchingInWhile.runtimeconfig.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\PatternMatchingInWhile\bin\Debug\net7.0\PatternMatchingInWhile.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\PatternMatchingInWhile\bin\Debug\net7.0\PatternMatchingInWhile.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\PatternMatchingInWhile\obj\Debug\net7.0\PatternMatchingInWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\PatternMatchingInWhile\obj\Debug\net7.0\PatternMatchingInWhile.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\PatternMatchingInWhile\obj\Debug\net7.0\PatternMatchingInWhile.AssemblyInfo.cs
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\PatternMatchingInWhile\obj\Debug\net7.0\PatternMatchingInWhile.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\PatternMatchingInWhile\obj\Debug\net7.0\PatternMatchingInWhile.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\PatternMatchingInWhile\obj\Debug\net7.0\refint\PatternMatchingInWhile.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\PatternMatchingInWhile\obj\Debug\net7.0\PatternMatchingInWhile.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\PatternMatchingInWhile\obj\Debug\net7.0\PatternMatchingInWhile.genruntimeconfig.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\PatternMatchingInWhile\obj\Debug\net7.0\ref\PatternMatchingInWhile.dll

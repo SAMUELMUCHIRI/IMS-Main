@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\for\bin\Debug\net7.0\for.exe
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\for\bin\Debug\net7.0\for.deps.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\for\bin\Debug\net7.0\for.runtimeconfig.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\for\bin\Debug\net7.0\for.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\for\bin\Debug\net7.0\for.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\for\obj\Debug\net7.0\for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\for\obj\Debug\net7.0\for.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\for\obj\Debug\net7.0\for.AssemblyInfo.cs
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\for\obj\Debug\net7.0\for.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\for\obj\Debug\net7.0\for.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\for\obj\Debug\net7.0\refint\for.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\for\obj\Debug\net7.0\for.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\for\obj\Debug\net7.0\for.genruntimeconfig.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\iteration\for\obj\Debug\net7.0\ref\for.dll

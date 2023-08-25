@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\Castingconverting\bin\Debug\net7.0\Castingconverting.exe
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\Castingconverting\bin\Debug\net7.0\Castingconverting.deps.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\Castingconverting\bin\Debug\net7.0\Castingconverting.runtimeconfig.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\Castingconverting\bin\Debug\net7.0\Castingconverting.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\Castingconverting\bin\Debug\net7.0\Castingconverting.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\Castingconverting\obj\Debug\net7.0\Castingconverting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\Castingconverting\obj\Debug\net7.0\Castingconverting.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\Castingconverting\obj\Debug\net7.0\Castingconverting.AssemblyInfo.cs
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\Castingconverting\obj\Debug\net7.0\Castingconverting.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\Castingconverting\obj\Debug\net7.0\Castingconverting.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\Castingconverting\obj\Debug\net7.0\refint\Castingconverting.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\Castingconverting\obj\Debug\net7.0\Castingconverting.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\Castingconverting\obj\Debug\net7.0\Castingconverting.genruntimeconfig.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 3\ChapterProjects\Castingconverting\obj\Debug\net7.0\ref\Castingconverting.dll
