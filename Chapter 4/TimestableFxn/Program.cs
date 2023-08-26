@@ -93,7 +93,11 @@ namespace xTable
             WriteLine("You did not enter a valid amount!");
             }
         }
-        //creating  a fxn that calculates factorials
+        /// <summary>
+        /// creating  a fxn that calculates factorials
+        /// </summary>
+        /// <param name="ONumber"> ONumber isa number between 1-255</param>
+        /// <returns>factorial of the ONumber eg 3! gives the product of 1x2x3 </returns>
         static int Factorial(int ONumber)
         {
             int newProduct =1;
@@ -115,6 +119,9 @@ namespace xTable
             }
             return newProduct;
         }
+        /// <summary>
+        /// Parse a string containing Integer values to Integer type
+        /// </summary> 
         static void GetNum()
         {
             Console.Write("Enter a number to get its factorial  : ");
@@ -132,6 +139,7 @@ namespace xTable
                 Console.WriteLine($"{ex.GetType()} says {ex.Message}");
             }
         }
+
 
     
     
