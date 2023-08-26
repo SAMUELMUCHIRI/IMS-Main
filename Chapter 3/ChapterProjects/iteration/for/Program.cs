@@ -8,10 +8,15 @@ namespace ForStatement
     {
         public static void Main(string[] args)
         {
+        int j = 0;    
         for (int i =1 ;i<10;i++)
         {
+
             Console.WriteLine(i);
+            j+=i;
         }
+
+        Console.WriteLine(j);
 
         }
     }

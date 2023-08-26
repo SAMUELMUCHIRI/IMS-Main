@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\TimestableFxn\obj\Debug\net7.0\TimestableFxn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\TimestableFxn\obj\Debug\net7.0\TimestableFxn.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\TimestableFxn\obj\Debug\net7.0\TimestableFxn.AssemblyInfo.cs
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\TimestableFxn\obj\Debug\net7.0\TimestableFxn.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\TimestableFxn\bin\Debug\net7.0\TimestableFxn.exe
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\TimestableFxn\bin\Debug\net7.0\TimestableFxn.deps.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\TimestableFxn\bin\Debug\net7.0\TimestableFxn.runtimeconfig.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\TimestableFxn\bin\Debug\net7.0\TimestableFxn.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\TimestableFxn\bin\Debug\net7.0\TimestableFxn.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\TimestableFxn\obj\Debug\net7.0\TimestableFxn.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\TimestableFxn\obj\Debug\net7.0\refint\TimestableFxn.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\TimestableFxn\obj\Debug\net7.0\TimestableFxn.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\TimestableFxn\obj\Debug\net7.0\TimestableFxn.genruntimeconfig.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\TimestableFxn\obj\Debug\net7.0\ref\TimestableFxn.dll
