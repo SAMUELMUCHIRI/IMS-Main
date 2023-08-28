@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\debugging\bin\Debug\net7.0\debugging.exe
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\debugging\bin\Debug\net7.0\debugging.deps.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\debugging\bin\Debug\net7.0\debugging.runtimeconfig.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\debugging\bin\Debug\net7.0\debugging.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\debugging\bin\Debug\net7.0\debugging.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\debugging\obj\Debug\net7.0\debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\debugging\obj\Debug\net7.0\debugging.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\debugging\obj\Debug\net7.0\debugging.AssemblyInfo.cs
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\debugging\obj\Debug\net7.0\debugging.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\debugging\obj\Debug\net7.0\debugging.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\debugging\obj\Debug\net7.0\refint\debugging.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\debugging\obj\Debug\net7.0\debugging.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\debugging\obj\Debug\net7.0\debugging.genruntimeconfig.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\debugging\obj\Debug\net7.0\ref\debugging.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\debugging\obj\Debug\net7.0\debugging.csproj.AssemblyReference.cache
