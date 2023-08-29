@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\bin\Release\net7.0\logging.exe
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\bin\Release\net7.0\logging.deps.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\bin\Release\net7.0\logging.runtimeconfig.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\bin\Release\net7.0\logging.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\bin\Release\net7.0\logging.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\obj\Release\net7.0\logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\obj\Release\net7.0\logging.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\obj\Release\net7.0\logging.AssemblyInfo.cs
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\obj\Release\net7.0\logging.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\obj\Release\net7.0\logging.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\obj\Release\net7.0\refint\logging.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\obj\Release\net7.0\logging.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\obj\Release\net7.0\logging.genruntimeconfig.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\obj\Release\net7.0\ref\logging.dll
