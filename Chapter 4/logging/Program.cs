@@ -7,6 +7,7 @@ namespace Instrumenting
          {
          static void Main(string[] args)
              {
+            // using Trace and Debug Classes
             // write to a text file in the project folder
             Trace.Listeners.Add(new TextWriterTraceListener(
             File.CreateText("log.txt")));
