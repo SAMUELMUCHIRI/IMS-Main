@@ -12,3 +12,14 @@ C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\obj\Release\net7.0\refint\
 C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\obj\Release\net7.0\logging.pdb
 C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\obj\Release\net7.0\logging.genruntimeconfig.cache
 C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\obj\Release\net7.0\ref\logging.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\bin\Release\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\bin\Release\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\bin\Release\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\bin\Release\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\bin\Release\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\bin\Release\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\bin\Release\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\bin\Release\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\bin\Release\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\obj\Release\net7.0\logging.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\logging\obj\Release\net7.0\logging.csproj.CopyComplete
