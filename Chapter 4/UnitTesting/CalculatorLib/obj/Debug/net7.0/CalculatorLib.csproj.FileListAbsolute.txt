@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\UnitTesting\CalculatorLib\bin\Debug\net7.0\CalculatorLib.deps.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\UnitTesting\CalculatorLib\bin\Debug\net7.0\CalculatorLib.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\UnitTesting\CalculatorLib\bin\Debug\net7.0\CalculatorLib.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\UnitTesting\CalculatorLib\obj\Debug\net7.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\UnitTesting\CalculatorLib\obj\Debug\net7.0\CalculatorLib.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\UnitTesting\CalculatorLib\obj\Debug\net7.0\CalculatorLib.AssemblyInfo.cs
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\UnitTesting\CalculatorLib\obj\Debug\net7.0\CalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\UnitTesting\CalculatorLib\obj\Debug\net7.0\CalculatorLib.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\UnitTesting\CalculatorLib\obj\Debug\net7.0\refint\CalculatorLib.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\UnitTesting\CalculatorLib\obj\Debug\net7.0\CalculatorLib.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\UnitTesting\CalculatorLib\obj\Debug\net7.0\ref\CalculatorLib.dll
