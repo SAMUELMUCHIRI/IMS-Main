@@ -2,7 +2,6 @@
 
 Welcome to the **.NET Learning Progress Repository**! This repository serves as a documentation hub for my journey in learning and mastering the .NET ecosystem. Whether you're a fellow learner, a mentor, or just curious about my progress, you're in the right place. 🎉
 
-![.NET Logo](https://upload.wikimedia.org/wikipedia/commons/e/ee/DotNetCore.svg)
 
 ## Table of Contents
 
