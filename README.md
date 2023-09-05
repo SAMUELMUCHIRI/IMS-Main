@@ -55,7 +55,7 @@ I welcome contributions from the community! Whether you want to suggest learning
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). You are free to use the code, resources, and documentation for your own learning purposes or contribute to its development. 📜
+This repository is licensed under the [GNU General Public License](LICENSE). You are free to use the code, resources, and documentation for your own learning purposes or contribute to its development. 📜
 
 Thank you for joining me on my .NET learning journey. Let's explore the world of .NET together! 🚀🔥
 
