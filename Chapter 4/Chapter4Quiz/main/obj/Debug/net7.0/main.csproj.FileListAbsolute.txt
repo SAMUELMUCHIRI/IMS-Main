@@ -1,0 +1,5 @@
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\main\obj\Debug\net7.0\main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\main\obj\Debug\net7.0\main.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\main\obj\Debug\net7.0\main.AssemblyInfo.cs
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\main\obj\Debug\net7.0\main.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\main\obj\Debug\net7.0\main.csproj.AssemblyReference.cache

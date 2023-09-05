@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = CalculatorLib
-build_property.ProjectDir = c:\Users\USER\source\repos\IMS-Main\Chapter 4\UnitTesting\CalculatorLib\
+build_property.RootNamespace = main
+build_property.ProjectDir = C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\main\

@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\Prime\bin\Debug\net7.0\Prime.deps.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\Prime\bin\Debug\net7.0\Prime.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\Prime\bin\Debug\net7.0\Prime.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\Prime\obj\Debug\net7.0\Prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\Prime\obj\Debug\net7.0\Prime.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\Prime\obj\Debug\net7.0\Prime.AssemblyInfo.cs
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\Prime\obj\Debug\net7.0\Prime.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\Prime\obj\Debug\net7.0\Prime.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\Prime\obj\Debug\net7.0\refint\Prime.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\Prime\obj\Debug\net7.0\Prime.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\Prime\obj\Debug\net7.0\ref\Prime.dll
