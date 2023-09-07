@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\IMS-Main\Chapter 5\PacktLibrary\bin\Debug\net7.0\PacktLibrary.deps.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 5\PacktLibrary\bin\Debug\net7.0\PacktLibrary.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 5\PacktLibrary\bin\Debug\net7.0\PacktLibrary.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 5\PacktLibrary\obj\Debug\net7.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\IMS-Main\Chapter 5\PacktLibrary\obj\Debug\net7.0\PacktLibrary.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 5\PacktLibrary\obj\Debug\net7.0\PacktLibrary.AssemblyInfo.cs
+C:\Users\USER\source\repos\IMS-Main\Chapter 5\PacktLibrary\obj\Debug\net7.0\PacktLibrary.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 5\PacktLibrary\obj\Debug\net7.0\PacktLibrary.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 5\PacktLibrary\obj\Debug\net7.0\refint\PacktLibrary.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 5\PacktLibrary\obj\Debug\net7.0\PacktLibrary.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 5\PacktLibrary\obj\Debug\net7.0\ref\PacktLibrary.dll
