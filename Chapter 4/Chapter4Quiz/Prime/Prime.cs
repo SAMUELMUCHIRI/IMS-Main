@@ -28,5 +28,6 @@ namespace PrimeFactorCalculator
 
             return string.Join(" x ", factors);
         }
+        
     }
 }

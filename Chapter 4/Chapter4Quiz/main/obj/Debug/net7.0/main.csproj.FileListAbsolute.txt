@@ -3,3 +3,16 @@ C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\main\obj\Debug\net7.0
 C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\main\obj\Debug\net7.0\main.AssemblyInfo.cs
 C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\main\obj\Debug\net7.0\main.csproj.CoreCompileInputs.cache
 C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\main\obj\Debug\net7.0\main.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\main\bin\Debug\net7.0\main.exe
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\main\bin\Debug\net7.0\main.deps.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\main\bin\Debug\net7.0\main.runtimeconfig.json
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\main\bin\Debug\net7.0\main.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\main\bin\Debug\net7.0\main.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\main\bin\Debug\net7.0\Prime.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\main\bin\Debug\net7.0\Prime.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\main\obj\Debug\net7.0\main.csproj.CopyComplete
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\main\obj\Debug\net7.0\main.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\main\obj\Debug\net7.0\refint\main.dll
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\main\obj\Debug\net7.0\main.pdb
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\main\obj\Debug\net7.0\main.genruntimeconfig.cache
+C:\Users\USER\source\repos\IMS-Main\Chapter 4\Chapter4Quiz\main\obj\Debug\net7.0\ref\main.dll
