@@ -1,43 +1,30 @@
 ﻿using System;
 using System.Collections.Generic;
+using PrimeFactorCalculator;
 
-namespace PrimeFactorCalculator
+namespace NTest
 {
-    public class PrimeFactorCalculator
+    public class CTest
     {
-        public static string PrimeFactors(int number)
-        {
-            if (number <= 1)
-                return "No prime factors";
-
-            List<int> factors = new List<int>();
-            int divisor = 2;
-
-            while (number > 1)
-            {
-                if (number % divisor == 0)
-                {
-                    factors.Add(divisor);
-                    number /= divisor;
-                }
-                else
-                {
-                    divisor++;
-                }
-            }
-
-            return string.Join(" x ", factors);
-        }
+ 
          static void Main(string[] args)
         {
             Console.WriteLine("Enter an integer to find its prime factors:");
            
             //string input1 =Console.ReadLine();
-            int input = int.Parse(Console.ReadLine());
-
-            string primeFactors = PrimeFactors(input);
-
+        if (int.TryParse(Console.ReadLine(), out int input))
+        {
+            // Use 'input' as an integer here
+            string primeFactors = ClPrimeFactorCalculator.PrimeFactors(input);
             Console.WriteLine($"Prime factors of {input} are: {primeFactors}");
+        }
+        else
+        {
+            Console.WriteLine("Invalid input. Please enter a valid integer.");
+        }
+                     
+
+            
         }
         
     }
