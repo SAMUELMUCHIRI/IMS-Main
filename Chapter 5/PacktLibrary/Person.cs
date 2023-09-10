@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 namespace Packt.Shared
 {
     public class Person
@@ -13,6 +14,9 @@ namespace Packt.Shared
 
     public WondersOfTheAncientWorld BucketList;
     //test 
+    public List<Person> Children = new List<Person>();
+    public const string Species = "Homo Sapien" ;
+    
 
     }
   
