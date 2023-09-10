@@ -1,6 +1,7 @@
 ﻿
 using static System.Console;
 using Packt.Shared;
+using System.Runtime.Serialization;
 
 namespace Welcpme
 {
@@ -65,7 +66,28 @@ namespace Welcpme
         arg0 : gerrierAccount.AccountName,
         arg1 : gerrierAccount.Balance * BankAccount.InterestRate); */
 
-        WriteLine($"{bob.Name} is a {Person.Species}");
+        // for the constant fields
+        //WriteLine($"{bob.Name} is a {Person.Species}");
+        // for read only Fields
+        //WriteLine($"{bob.Name} was born on  {bob.HomePlanet} ");
+        
+        /* var blankPerson = new Person();
+
+        WriteLine(format : "{0} of {1} was Created at {2:hh:mm:ss}   on a {2:dddd} ",
+        arg0 : blankPerson.Name,
+        arg1 : blankPerson.HomePlanet,
+        arg2 : blankPerson.Instantiated); */
+        Console.WriteLine("Yours Name :");
+        string Oname= ReadLine();
+        Console.WriteLine("Your Planet :");
+        string Oplanet = ReadLine();
+        var gunny = new Person(Oname, Oplanet );
+        /* WriteLine(format :
+        "{0} of {1} was created at {2:hh.mm.ss} on a {2:dddd}",
+        arg0 : gunny.Name,
+        arg1 : gunny.HomePlanet,
+        arg2 : gunny.Instantiated);  */
+        
         }
     }
     
