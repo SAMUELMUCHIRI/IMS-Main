@@ -37,11 +37,11 @@ namespace Welcpme
         DateOfBirth = new DateTime(1998, 3, 7)
     };
     Trace.WriteLine("Created the new variable Alice ");
-    WriteLine(
+    /* Console.WriteLine(
         format: "{0} was born on {1:dd MMM yy}",
         arg0: alice.Name,
         arg1: alice.DateOfBirth); 
-        Trace.WriteLine("Printed Alice characteristics");
+        Trace.WriteLine("Printed Alice characteristics"); */
 
 
         bob.FavoriteAncientWonder = 
@@ -114,6 +114,14 @@ namespace Welcpme
         Trace.WriteLine("printed the new variable person"); 
         DateTime eND= DateTime.Now;
         Trace.WriteLine($"eNDED execution at {eND}");
+        bob.WriteToConsole();
+        WriteLine(bob.GetOrigin());
+        (string , int) fruit = bob.GetFruit();
+        WriteLine($"{fruit.Item1}, {fruit.Item2} there are.");
+        var Nfruit=bob.GetNamed();
+        Console.WriteLine($"there are {Nfruit.Number} {Nfruit.Name}");
+
+
 
         
         }

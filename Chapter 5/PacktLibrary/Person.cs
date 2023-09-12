@@ -36,6 +36,28 @@ namespace Packt.Shared
         
 
     }
+    // method 1 it is a member of class Person and does not return a value
+    public void WriteToConsole()
+    {
+    Console.WriteLine($"{Name} was born on a {DateOfBirth:dddd}.");
+    }
+
+    // Method 2 returns a value( string)
+    public string GetOrigin()
+    {
+    return $"{Name} was born on {HomePlanet}.";
+    }
+     // creating a method that retrns multiple values 
+      public (string ,int ) GetFruit()
+      {
+        return ("Apple" , 5);
+      }
+
+      // naming fields inside a tuple 
+      public (string Name ,int Number  ) GetNamed()
+      {
+        return (Name :"Apple", Number:5);
+      }
 
 
     }

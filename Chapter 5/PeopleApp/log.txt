@@ -1,8 +1,7 @@
-Started Execution at 9/12/2023 2:06:21 PM
+Started Execution at 9/12/2023 3:41:15 PM
 Created the new variable Bob by calling the Person class 
 Created the new variable Bob
 Created the new variable Alice 
-Printed Alice characteristics
 Included Bob likings
 printed Bob's Likings
 Created the Bob's bucket list
@@ -14,11 +13,11 @@ Created the new variable blank person
 Printed the new variable person
 Created the new variable person
 printed the new variable person
-eNDED execution at 9/12/2023 2:06:21 PM
+eNDED execution at 9/12/2023 3:41:15 PM
 Printed His Children
 Assigned Bank accounts and populated interest
 Created the new variable blank person
 Printed the new variable person
 Created the new variable person
 printed the new variable person
-eNDED execution at 9/12/2023 2:06:21 PM
+eNDED execution at 9/12/2023 3:41:15 PM
