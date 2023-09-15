@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\Strings\Strings\obj\Debug\net7.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\Strings\Strings\obj\Debug\net7.0\Strings.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\Strings\Strings\obj\Debug\net7.0\Strings.AssemblyInfo.cs
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\Strings\Strings\obj\Debug\net7.0\Strings.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\Strings\Strings\bin\Debug\net7.0\Strings.exe
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\Strings\Strings\bin\Debug\net7.0\Strings.deps.json
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\Strings\Strings\bin\Debug\net7.0\Strings.runtimeconfig.json
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\Strings\Strings\bin\Debug\net7.0\Strings.dll
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\Strings\Strings\bin\Debug\net7.0\Strings.pdb
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\Strings\Strings\obj\Debug\net7.0\Strings.dll
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\Strings\Strings\obj\Debug\net7.0\refint\Strings.dll
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\Strings\Strings\obj\Debug\net7.0\Strings.pdb
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\Strings\Strings\obj\Debug\net7.0\Strings.genruntimeconfig.cache
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\Strings\Strings\obj\Debug\net7.0\ref\Strings.dll

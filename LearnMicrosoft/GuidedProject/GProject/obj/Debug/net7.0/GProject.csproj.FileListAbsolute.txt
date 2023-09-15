@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\GuidedProject\GProject\bin\Debug\net7.0\GProject.exe
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\GuidedProject\GProject\bin\Debug\net7.0\GProject.deps.json
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\GuidedProject\GProject\bin\Debug\net7.0\GProject.runtimeconfig.json
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\GuidedProject\GProject\bin\Debug\net7.0\GProject.dll
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\GuidedProject\GProject\bin\Debug\net7.0\GProject.pdb
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\GuidedProject\GProject\obj\Debug\net7.0\GProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\GuidedProject\GProject\obj\Debug\net7.0\GProject.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\GuidedProject\GProject\obj\Debug\net7.0\GProject.AssemblyInfo.cs
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\GuidedProject\GProject\obj\Debug\net7.0\GProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\GuidedProject\GProject\obj\Debug\net7.0\GProject.dll
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\GuidedProject\GProject\obj\Debug\net7.0\refint\GProject.dll
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\GuidedProject\GProject\obj\Debug\net7.0\GProject.pdb
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\GuidedProject\GProject\obj\Debug\net7.0\GProject.genruntimeconfig.cache
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\GuidedProject\GProject\obj\Debug\net7.0\ref\GProject.dll
