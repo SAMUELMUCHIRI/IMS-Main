@@ -20,7 +20,22 @@ void ValidateLength()
     string[] address = ipv4Input.Split(".");
     validLength = address.Length == 4;
 }
-void ValidateZeroes() {}
+
+void ValidateZeroes() 
+{
+    string[] address = ipv4Input.Split(".");
+
+    foreach (string number in address) 
+    {
+        if (number.Length > 1 && number.StartsWith("0")) 
+        {
+            validZeroes = false;
+        }
+    }
+
+    validZeroes = true;
+}
+
 void ValidateRange() {}
 
 if (ValidateLength() && ValidateZeroes() && ValidateRange()) 

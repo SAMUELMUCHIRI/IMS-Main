@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\reverse\reverse\bin\Debug\net7.0\reverse.exe
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\reverse\reverse\bin\Debug\net7.0\reverse.deps.json
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\reverse\reverse\bin\Debug\net7.0\reverse.runtimeconfig.json
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\reverse\reverse\bin\Debug\net7.0\reverse.dll
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\reverse\reverse\bin\Debug\net7.0\reverse.pdb
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\reverse\reverse\obj\Debug\net7.0\reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\reverse\reverse\obj\Debug\net7.0\reverse.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\reverse\reverse\obj\Debug\net7.0\reverse.AssemblyInfo.cs
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\reverse\reverse\obj\Debug\net7.0\reverse.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\reverse\reverse\obj\Debug\net7.0\reverse.dll
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\reverse\reverse\obj\Debug\net7.0\refint\reverse.dll
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\reverse\reverse\obj\Debug\net7.0\reverse.pdb
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\reverse\reverse\obj\Debug\net7.0\reverse.genruntimeconfig.cache
+C:\Users\USER\source\repos\IMS-Main\LearnMicrosoft\reverse\reverse\obj\Debug\net7.0\ref\reverse.dll
