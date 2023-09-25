@@ -1,7 +1,8 @@
 # .NET Learning Progress Repository
 
-Welcome to the **.NET Learning Progress Repository**! This repository serves as a documentation hub for my journey in learning and mastering the .NET ecosystem. Whether you're a fellow learner, a mentor, or just curious about my progress, you're in the right place. 🎉
-
+Welcome to the **.NET Learning Progress Repository**! This repository serves as a documentation hub for my journey in learning and mastering the .NET ecosystem.It is based on the book 
+> Csharp 8.0 and .NET Core 3.0 – Modern Cross-Platform Development 4th Edition 
+ <br>
 ## Goal
 To create a ERP cross platform desktop application
 
