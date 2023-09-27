@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q1xNB742QvGRSAHJHCAm/xwD99c45hy7XhIKq5XUeSv6/ywzkT91Fixr7EAOb6dNVOVT1Meabte1m7DFl6zHEA==",
+  "dgSpecHash": "9YuXJFQAs1mmUvTpiAJwBJ984k8WIQRy7MC024Qblt4YTpO2nubznGQoM5o8uRun/Pi13gLGfgmC5++aV00vng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\IMS-Main\\Chapter 4\\debugging\\debugging.csproj",
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\DOTNET Learning\\Learning Section\\Chapter 4\\debugging\\debugging.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
